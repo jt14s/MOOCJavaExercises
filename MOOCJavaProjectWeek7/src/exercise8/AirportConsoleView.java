@@ -20,7 +20,7 @@ class AirportConsoleView {
 		System.out.println("Choose operation:");
 		System.out.println("[1] Add airplane");
 		System.out.println("[2] Add flight");
-		System.out.println("[3] Exit");
+		System.out.println("[x] Exit");
 		System.out.print("> ");
 	}
 	
@@ -28,8 +28,8 @@ class AirportConsoleView {
 		System.out.println("Choose operation:");
 		System.out.println("[1] Print planes");
 		System.out.println("[2] Print flights");
-		System.out.println("[2] Print plane info");
-		System.out.println("[3] Quit");
+		System.out.println("[3] Print plane info");
+		System.out.println("[x] Quit");
 		System.out.print("> ");
 	}
 	
